@@ -1,28 +1,31 @@
 # Pecunia-Bank-Transaction
 
 
-Transaction Using Slip         -  Debit  
+Transaction Using Slip        
+ 
 
                                - Credit
+                               - Debit 
                             
-Transaction Using Cheque      -  Debit  
+Transaction Using Cheque      
 
                                - Credit
+                               - Debit 
                                
                                
                                
                                
- Mockito Test Case Completed.
+                               Mockito Test Case Completed.
  
- Data Entery Using Client Layer completed.
+                                     Data Entery Using Client Layer completed.
  
- All Layer Completed.
+                                   All Layer Completed.
  
- Logger Implemented.
+                                     Logger Implemented.
  
- Exception handling Completed.
+                                 Exception handling Completed.
  
- Restful Web Services Checked Through Postman.
+                                 Restful Web Services Checked Through Postman.
  
  Junit Test Cases Completed.
  
